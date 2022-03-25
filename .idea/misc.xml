@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ALLMyAndroidApp/foodOderingApp/app/src/main/res/drawable/btn_backgrnd.xml" value="0.1615" />
+        <entry key="..\:/ALLMyAndroidApp/foodOderingApp/app/src/main/res/drawable/edittextbackground.xml" value="0.1615" />
+        <entry key="..\:/ALLMyAndroidApp/foodOderingApp/app/src/main/res/layout/activity_detail.xml" value="0.23645833333333333" />
         <entry key="..\:/ALLMyAndroidApp/foodOderingApp/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/ALLMyAndroidApp/foodOderingApp/app/src/main/res/layout/activity_order.xml" value="0.23645833333333333" />
+        <entry key="..\:/ALLMyAndroidApp/foodOderingApp/app/src/main/res/layout/edittextbackground.xml" value="0.23645833333333333" />
+        <entry key="..\:/ALLMyAndroidApp/foodOderingApp/app/src/main/res/layout/ordersample.xml" value="0.23645833333333333" />
         <entry key="..\:/ALLMyAndroidApp/foodOderingApp/app/src/main/res/layout/samplefood.xml" value="0.23645833333333333" />
       </map>
     </option>
